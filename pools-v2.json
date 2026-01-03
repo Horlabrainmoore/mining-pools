@@ -416,7 +416,7 @@
   {
     "id": 39,
     "name": "Mt Red",
-    "addresses": [],
+    "addresses": ["bc1qpqlsehzrjmxhutxmlwt6tdjkwafvcgugpv5375"],
     "tags": [
       "/mtred/"
     ],
@@ -434,7 +434,7 @@
   {
     "id": 41,
     "name": "Yourbtc.net",
-    "addresses": [],
+    "addresses": ["bc1qpqlsehzrjmxhutxmlwt6tdjwafvcgugpv5375],
     "tags": [
       "yourbtc.net"
     ],
