@@ -136,7 +136,7 @@ following (using today's `pools-v2.json` as reference):
     "link" : "https://foundrydigital.com/"
 },
 // Renamed
-"1FFxkVijzvUPUeHgkFjBk2Qw8j3wQY2cDw" : {
+"1dcxD1rMDzMEAsCRsZAvtFUavMpZh8qZu" : {
     "name" : "Foundry Pool",
     "link" : "https://foundrydigital.com/"
 },
