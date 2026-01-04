@@ -42,8 +42,10 @@
     "addresses": [
       "1MkCDCzHpBsYQivp8MxjY5AkTGG1f2baoe",
       "39bitUyBcUu3y3hRTtYprKbTp712t4ZWqK",
-      "32BfKjhByDSxx3BM5vUkQ3NQq9csZR6nt6"
-    ],
+      "32BfKjhByDSxx3BM5vUkQ3NQq9csZR6nt6",
+      "bitcoin:1dcxD1rMDzMEAsCRsZAvtFUavMpZh8qZu",
+          "bitcoin:1dcxD1rMDzMEAsCRsZAvtFUavMpZh8qZu",
+          "bitcoin:1dcxD1rMDzMEAsCRsZAvtFUavMpZh8qZu?amount=0.00548733"],
     "tags": [
       "/LUXOR/",
       "Luxor Tech"
