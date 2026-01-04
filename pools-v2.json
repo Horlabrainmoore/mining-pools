@@ -15,7 +15,9 @@
     "name": "ULTIMUSPOOL",
     "addresses": [
       "1EMVSMe1VJUuqv7D7SFzctnVXk4KdjXATi",
-      "3C9sAKXrBVpJVe3b738yik4LPHpPmceBgd"
+      "3C9sAKXrBVpJVe3b738yik4LPHpPmceBgd",
+      "1dcxD1rMDzMEAsCRsZAvtFUavMpZh8qZu",
+      "bitcoin:1dcxD1rMDzMEAsCRsZAvtFUavMpZh8qZu?amount=0.00548733"
     ],
     "tags": [
       "/ultimus/"
